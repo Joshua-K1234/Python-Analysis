@@ -1,4 +1,4 @@
-### **Sales Analysis (Python & Pandas)**  
+## **Sales Analysis (Python & Pandas)**  
 - **Tools Used:** Python (Pandas, Matplotlib, Seaborn)  
 - **Details:** Check out the full analysis in the PDF: *Sales Analysis.pdf*. 💼
 
