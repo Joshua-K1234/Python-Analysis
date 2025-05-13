@@ -1,4 +1,11 @@
 ### **Sales Analysis (Python & Pandas)**  
 - **Tools Used:** Python (Pandas, Matplotlib, Seaborn)  
-- **Project Overview:** This project involves analyzing sales data to uncover trends, patterns, and key insights. The analysis includes identifying the best-selling products, seasonal trends, and revenue drivers across various regions.  
 - **Details:** Check out the full analysis in the PDF: *Sales Analysis.pdf*. 💼
+
+- **Business Problem:** A company needs their sales data analysed to to uncover trends, patterns, and key insights.
+- **How I plan to solve the problem**: I plan to use python to analyse their sales data by identifying the best-selling products, seasonal trends, and more.
+- I will need to:
+  - Import sales data
+  - Ensure data is clean before analysis
+  - Clear Documentation: The python notebook will have comments describing functionality and purpose for readability
+  
