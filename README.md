@@ -5,6 +5,7 @@
   - Import sales data
   - Ensure data is clean before analysis
   - Clear Documentation: The python notebook will have comments describing functionality and purpose for readability
+  - Analyse the data and answer questions.
  
 ## Explanation of python code used to solve the problem
 **Setup**
