@@ -24,6 +24,7 @@
     - Afterwards used that function with "apply" to use on a column and create a new column.
 
 **Analysis**
+
 After everything is setup, I started my analysis, asking key questions about the sales data.
 
 1) 
