@@ -9,12 +9,26 @@
  
 ## Explanation of python code used to solve the problem
 **Setup**
-1) First I needed to import the data. The dataset consists of multiple csv files that contain data for different months of the year.
+1) Import the data: The dataset consists of multiple csv files that contain data for different months of the year.
   - For analysis these files needed to be consolidated into one file.
   - To do this I wrote code to list all the files in the folder containing csv files
   - Appended the contents of each csv file one by one into a empty list (Lists can store dataframes).
   - Combine the data so all rows from each CSV file are merged into one DataFrame, instead of being stored separately in a list.
-  
+
+2) Clean the data:
+  - Inspected the data and then carried out the following:
+  - Removed Null values,
+  - Corrected Incorrect data types
+  - Derived a new column by using string parsing to extract the city from each address.
+    - I did this by getting making a function the second element after splitting the address with "split".
+    - Afterwards used that function with "apply" to use on a column and create a new column.
+
+**Analysis**
+After everything is setup, I started my analysis, asking key questions about the sales data.
+
+1) 
+
+
 ## 🛠️ Tech Stack
 - **Tools Used:** Python (Pandas, Matplotlib, Seaborn)  
 - **Details:** Check out the full analysis in the PDF: *Sales Analysis.pdf*. 💼
