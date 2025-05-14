@@ -7,6 +7,12 @@
   - Clear Documentation: The python notebook will have comments describing functionality and purpose for readability
  
 ## Explanation of python code used to solve the problem
+- Setup
+1) First I needed to import the data. The dataset consists of multiple csv files contain data for different months of the year.
+  - For analysis these files needed to be consolidated into one file.
+  - To do this I wrote code to list all the files in the folder containing csv files
+  - Appended the contents of each csv file one by one into a empty list (Lists can store dataframes).
+  - Combine the data so all rows from each CSV file are merged into one DataFrame, instead of being stored separately in a list.
   
 ## 🛠️ Tech Stack
 - **Tools Used:** Python (Pandas, Matplotlib, Seaborn)  
